@@ -35,6 +35,23 @@ I'm a passionate **Senior Backend Engineer** with a proven track record of build
 ## 💼 Professional Journey
 
 <details>
+<summary><b>⚡ Ruby Backend Engineer @ Sonnen Group (Jul 2025 - Present)</b> - <i>Click to expand</i></summary>
+
+### Internal Platform & Device Management:
+- **🔧 Platform Development**: Develop and maintain Ruby on Rails-based internal platform used by Sonnen service agents and partners to monitor, manage, and remotely control Sonnen devices (batteries, chargers, heat pumps)
+- **📊 Real-time Data Aggregation**: Design backend services aggregating real-time and historical device data, including behavior metrics, connectivity status, error states, and operational telemetry
+- **🔄 System Integration**: Integrate core system with multiple internal services and databases, ensuring reliable data flow and consistency across platforms
+- **🗄️ Database Expertise**: Work extensively with PostgreSQL and MySQL for robust data management
+- **⚡ Performance Optimization**: Utilize Redis for caching and session management to improve system performance and responsiveness
+- **🔍 Observability**: Contribute to error tracking and observability using Sentry for faster detection and resolution of production issues
+- **📡 Remote Control**: Support backend functionality enabling remote command execution on physical devices
+- **✅ Quality Assurance**: Write and maintain unit tests, delivering features according to detailed specifications with focus on code quality and reliability
+- **🤝 Agile Collaboration**: Work closely with cross-functional teams through Agile Kanban process to transform business needs into scalable, production-ready solutions
+
+**Tech Stack**: `Ruby on Rails` `PostgreSQL` `MySQL` `Redis` `Sentry` `Agile Kanban`
+</details>
+
+<details>
 <summary><b>🌟 Software Engineer @ Accredible (Nov 2023 - Oct 2024)</b> - <i>Click to expand</i></summary>
 
 ### Analytics Team Achievements:
