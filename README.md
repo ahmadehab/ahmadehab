@@ -242,7 +242,7 @@ I'm always excited to discuss new opportunities, challenging projects, or just g
 - ✅ Optimize your system to handle massive scale
 - ✅ Lead technical initiatives and mentor teams
 - ✅ Bridge the gap between business needs and technical solutions
-- ✅ Bring 7+ years of battle-tested experience
+- ✅ Bring 9+ years of battle-tested experience
 
 ### 📫 Reach Out:
 
